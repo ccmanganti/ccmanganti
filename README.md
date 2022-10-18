@@ -1,4 +1,4 @@
-# 👋 *Hi, I’m Christopher Clark Manganti, a Computer Engineering major aspiring to specialize on Software and Web Development.*
+# 👋 *Hi, I’m Christopher Clark Manganti, a Computer Engineering major aspiring to specialize in Software and Web Development.*
 
 # 👀 Interests
 - 📱 Intelligent Systems
