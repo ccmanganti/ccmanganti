@@ -13,6 +13,3 @@
 ## 📫 Social Media Links
 - [Facebook](https://www.facebook.com/ccmanganti)
 - [LinkedIn](https://www.linkedin.com/in/ccmanganti)
-- [Twitter](https://twitter.com/ccmanganti)
-- [Youtube](www.youtube.com/channel/UCWupEP18zVCC8e2tLl6QQ7Q)
-- [Personal Website](https://christopher-clark.herokuapp.com)
